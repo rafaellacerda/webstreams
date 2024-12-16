@@ -6,6 +6,7 @@ Este repositório é uma PoC criada como parte de estudos para explorar a funcio
 - **WebStreams**: Implementação de uma funcionalidade de streaming de dados em tempo real.
 - Arquitetura baseada em duas partes principais:
   - **Client**: Interface de usuário para consumir e exibir os dados do streaming.
+  - **App**: Interface de usuário para consumir e exibir os dados do streaming usando React.
   - **Server**: Backend responsável por gerenciar e fornecer os fluxos de dados.
 
 ## Benefícios do WebStreams
